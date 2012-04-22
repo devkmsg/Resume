@@ -9,4 +9,9 @@ task :pdf do
   `markdown2pdf --template=resume-template.tex --xetex resume.md`
 end
 
-task :default => [:pdf, :html]
+desc "Generate resume.docx"
+task :docx do
+  `pandoc resume.md -o resume.docx --template=resume-template.tex`
+end
+
+task :default => [:pdf, :html, :docx]

@@ -1,8 +1,8 @@
 # Andrew Thompson
 
-10 Railroad Street, Apt. 34C <br />
-Slatersville, RI 02876 <br />
-netengr2009@gmail.com <br />
+10 Railroad Street, Apt. 34C  
+Slatersville, RI 02876  
+netengr2009@gmail.com  
 401.368.0359
 
 ## Summary
@@ -11,8 +11,8 @@ Driven Systems Administrator seeking a new opportunity in a networking role.  St
 
 ## Education
 
-Johnson & Wales University, Providence, RI						09/2005-11/2008
-B.S. Network Engineering
+> Johnson & Wales University, Providence, RI						09/2005-11/2008  
+B.S. Network Engineering  
 GPA 3.52/4.00
 
 ## Skills
