@@ -27,7 +27,7 @@ GPA 3.52/4.00
   * Operating Systems: Microsoft Windows Desktop OS (2000, XP, Vista, 7), Microsoft Windows Server OS(2000, 2003, 2008), Linux (CentOS, Fedora, Ubuntu), VMWare ESXi 4.0 & 4.1
   * Monitoring Tools: BMC Patrol, Solarwinds Orion NPM & APM, Nagios Core, Nagios XI
   * Ticketing Systems: Best Practical RT, Service-now IT Service Management Suite, Kayako SupportSuite
-  * Application Software: Microsoft Office 2003/2007 suite, Microsoft SQL Server 2000/2005/2008, Microsoft Visio 2003/2007, Microsoft Internet Information Services(IIS), McAfee Antivirus, Hilgraeve Hyperterminal, Putty, VisionApp Remote Desktop 2010 R2, Secure CRT, Apache HTTP Server, Apache Tomcat, VI, Nano
+  * Application Software: Microsoft Office 2003/2007 suite, Microsoft SQL Server 2000/2005/2008, Microsoft Visio 2003/2007, Microsoft Internet Information Services(IIS), McAfee Antivirus, Hilgraeve Hyperterminal, Putty, VisionApp Remote Desktop 2010 R2, Vandyke Secure CRT, Apache HTTP Server, Apache Tomcat, Puppetlabs Puppet, VI, Nano
   * Enterprise Tools: Symantec Altiris Deployment Solution 6.4/6.9
   * Programming/Scripting Languages: C, C#, batch, vbs, Perl, Python, Ruby, bash
   
@@ -37,6 +37,17 @@ GPA 3.52/4.00
 OSI Model, TCP/IP, Ethernet, Fast Ethernet, Gigabit Ethernet, Ten-Gigabit Ethernet, FTP, TFTP, Telnet, SSH, SNMP, DHCP, ARP, DNS, RIPv2, VLANs, VTP, STP, EtherChannel(Port-Channel)
 
 ## Experience
+### 38 Studios, LLC, Providence, RI
+*Developer of the much anticipated title, Kingdoms of Amalur: Reckoning, released Feburary 2012 and the in development Project Copernicus*
+
+#### Operations Systems Administrator - November 2010 to Present
+  * Served as the scrum-master for the Operations crew
+  * Administer 250+ production servers in a private cloud environment
+  * Administer 300+ development/testing servers hosted on multiple ESXi servers
+  * Evaluated and selected monitoring software
+  * Implemented monitoring infrastrusture that included Nagios Core, Distributed Nagios Executor (DNX) for scalability, Check_MK for a cleaner web UI, and pnp4nagios for rrd graphs
+  * Designed custom tools to monitor proprietary applications
+
 ### Realtime Worlds, Inc., Boulder, CO
 *Online video game developer of the much hyped title, All Points Bulletin, released June 2010*
 
