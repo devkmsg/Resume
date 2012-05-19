@@ -14,4 +14,8 @@ task :docx do
   `pandoc resume.md -o resume.docx --template=resume-template.tex`
 end
 
+task :clean do
+  `del resume.html resume.pdf resume.docx`
+end
+
 task :default => [:pdf, :html, :docx]
