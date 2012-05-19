@@ -25,11 +25,11 @@ GPA 3.52/4.00
   
 ### Software
   * Operating Systems: Microsoft Windows Desktop OS (2000, XP, Vista, 7), Microsoft Windows Server OS(2000, 2003, 2008), Linux (CentOS, Fedora, Ubuntu), VMWare ESXi 4.0 & 4.1
-  * Monitoring Tools: BMC Patrol, Solarwinds Orion NPM & APM, Nagios XI
+  * Monitoring Tools: BMC Patrol, Solarwinds Orion NPM & APM, Nagios Core, Nagios XI
   * Ticketing Systems: Best Practical RT, Service-now IT Service Management Suite, Kayako SupportSuite
-  * Application Software: Microsoft Office 2003/2007 suite, Microsoft SQL Server 2000/2005/2008, Microsoft Visio 2003/2007, Microsoft Active Directory, Microsoft Internet Information Services(IIS), McAfee Antivirus, Hilgraeve Hyperterminal, Putty, VisionApp Remote Desktop 2010 R2, Apache HTTP Server, Apache Tomcat, VI, Nano
+  * Application Software: Microsoft Office 2003/2007 suite, Microsoft SQL Server 2000/2005/2008, Microsoft Visio 2003/2007, Microsoft Internet Information Services(IIS), McAfee Antivirus, Hilgraeve Hyperterminal, Putty, VisionApp Remote Desktop 2010 R2, Secure CRT, Apache HTTP Server, Apache Tomcat, VI, Nano
   * Enterprise Tools: Symantec Altiris Deployment Solution 6.4/6.9
-  * Programming/Scripting Languages: C, C#, batch, vbs, Perl, bash
+  * Programming/Scripting Languages: C, C#, batch, vbs, Perl, Python, Ruby, bash
   
   
 ## Protocols
