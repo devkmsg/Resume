@@ -32,10 +32,6 @@ GPA 3.52/4.00
   * Programming/Scripting Languages: C, C#, batch, vbs, Perl, Python, Ruby, bash
   
   
-## Protocols
-
-OSI Model, TCP/IP, Ethernet, Fast Ethernet, Gigabit Ethernet, Ten-Gigabit Ethernet, FTP, TFTP, Telnet, SSH, SNMP, DHCP, ARP, DNS, RIPv2, VLANs, VTP, STP, EtherChannel(Port-Channel)
-
 ## Experience
 ### 38 Studios, LLC, Providence, RI
 *Developer of the much anticipated title, Kingdoms of Amalur: Reckoning, released Feburary 2012 and the in development Project Copernicus*
@@ -96,23 +92,5 @@ OSI Model, TCP/IP, Ethernet, Fast Ethernet, Gigabit Ethernet, Ten-Gigabit Ethern
   * Responsible for the QA environment
   * Monitor the RT Ticket queue through the work day and execute any applicable tickets
 
-## Relevant Courses
-  * Intro to Data Communications
-  * Signal Transmission
-  * Network Devices
-  * Distributed Systems TCP/IP
-  * Server Configuration/Implementation
-  * Advanced Networking with TCP/IP
-  * Information Security
-  * Network Management & Administration
-  * Network Security 
-
-
 ## Certifications
   * Cisco Certified Entry Networking Technician (CCENT)
-  * Pursuing Cisco Certified Network Associate (CCNA)
-
-## Awards and Associations
-  * Certificate of Completion, Cisco Networking Academy 2005
-  * SkillsUSA Member, 2003-2008, RI Silver Medalist in Computer Internetworking 2005-2006
-  * Dean's List, Johnson & Wales University 2005-2008
