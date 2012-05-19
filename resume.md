@@ -34,14 +34,14 @@ GPA 3.52/4.00
   
 ## Experience
 ### 38 Studios, LLC, Providence, RI
-*Developer of the much anticipated title, Kingdoms of Amalur: Reckoning, released Feburary 2012 and the in development Project Copernicus*
+*Developer of the much anticipated title, Kingdoms of Amalur: Reckoning, released February 2012 and the in development Project Copernicus*
 
 #### Operations Systems Administrator - November 2010 to Present
   * Served as the scrum-master for the Operations crew
   * Administer 250+ production servers in a private cloud environment
   * Administer 300+ development/testing servers hosted on multiple ESXi servers
   * Evaluated and selected monitoring software
-  * Implemented monitoring infrastrusture that included Nagios Core, Distributed Nagios Executor (DNX) for scalability, Check_MK for a cleaner web UI, and pnp4nagios for rrd graphs
+  * Implemented monitoring infrastructure that included Nagios Core, Distributed Nagios Executor (DNX) for scalability, Check_MK for a cleaner web UI, and pnp4nagios for rrd graphs
   * Designed custom tools to monitor proprietary applications
 
 ### Realtime Worlds, Inc., Boulder, CO
