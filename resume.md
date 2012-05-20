@@ -9,14 +9,7 @@ netengr2009@gmail.com
 
 Driven Systems Administrator seeking a new opportunity.  Strong leader with exceptional analytical and problem solving skills with the ability to work under pressure.  Innovative thinker with interests in automation and scripting.
 
-## Education
-
-> Johnson & Wales University, Providence, RI						09/2005-11/2008  
-B.S. Network Engineering  
-GPA 3.52/4.00
-
 ## Skills
-
 ### Hardware
   * Cisco Routers: (2500)
   * Switches: Cisco (Catalyst 2900, 2950), Dell (PowerConnect M6220, 6248)
@@ -95,6 +88,11 @@ GPA 3.52/4.00
   * Updated documentation with any necessary changes, found inefficiencies in documented procedures and proposed new procedures
   * Responsible for the QA environment
   * Monitor the RT Ticket queue through the work day and execute any applicable tickets
+
+## Education
+Johnson & Wales University, Providence, RI						09/2005-11/2008  
+B.S. Network Engineering  
+GPA 3.52/4.00
 
 ## Certifications
   * Cisco Certified Entry Networking Technician (CCENT)
