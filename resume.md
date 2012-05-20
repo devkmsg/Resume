@@ -43,7 +43,10 @@ GPA 3.52/4.00
   * Evaluated and selected monitoring software
   * Implemented monitoring infrastructure that included Nagios Core, Distributed Nagios Executor (DNX) for scalability, Check_MK for a cleaner web UI, and pnp4nagios for rrd graphs
   * Designed custom tools to monitor proprietary applications
-
+  * Architected most of the puppet infrastructure used in both the production and development/testing environments
+  * Assisted in the development of a self-service portal for updating internal testing environments
+  * Assisted in developing MCollective agents to manage all the internal and 3rd party applications 
+  
 ### Realtime Worlds, Inc., Boulder, CO
 *Online video game developer of the much hyped title, All Points Bulletin, released June 2010*
 
