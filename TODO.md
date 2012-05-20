@@ -1,1 +1,1 @@
-* Need a better template for work documents(bullets don't look quite right...)
+* Need a better template for word documents(bullets don't look quite right...)
