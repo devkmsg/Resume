@@ -27,17 +27,26 @@ Driven Systems Administrator seeking a new opportunity.  Strong leader with exce
 ### 38 Studios, LLC, Providence, RI
 *Developer of the much anticipated title, Kingdoms of Amalur: Reckoning, released February 2012 and the in development Project Copernicus*
 
-#### Operations Systems Administrator - November 2010 to Present
-  * Served as the scrum-master for the Operations crew
-  * Administer 250+ production servers in a private cloud environment
+#### Operations Systems Administrator - November 2010 to May 2012 
+
+  * Administer 250+ production servers in the Terremark Enterprise Cloud
   * Administer 300+ development/testing servers hosted on multiple ESXi servers
+  * Assisted in the development of a self-service portal for updating internal testing environments
+  * Manage Webistrano installation enabling self-service deployments to the website developers
+  * Architect of most of the Puppet infrastructure used in both the production and development/testing environments
+  * Develop sophisticated scripts for automation, monitoring and testing
+  * Deploy, manage, configure, and monitor custom Java based account management system
   * Evaluated and selected monitoring software
   * Implemented monitoring infrastructure that included Nagios Core, Distributed Nagios Executor (DNX) for scalability, Check_MK for a cleaner web UI, and pnp4nagios for rrd graphs
-  * Designed custom tools to monitor proprietary applications
-  * Architected most of the puppet infrastructure used in both the production and development/testing environments
-  * Developed a versioned package Ubuntu package repository 
-  * Assisted in the development of a self-service portal for updating internal testing environments
-  * Assisted in developing MCollective agents to manage all the internal and 3rd party applications 
+  * Design custom tools to monitor proprietary applications
+  * Developed a versioned Ubuntu package repository
+  * Assist in developing MCollective agents to manage all the internal and 3rd party applications
+  * Deploy and manage Jira application server
+  * Responsible for Production, QA, and Development support
+  * Define and document procedures while supporting industry’s Best Practices
+  * Responsible for implementing, monitoring, and maintaining the MySql backups for the website environment
+  * Serve as the scrum-master for the Operations crew
+  * Performed new-hire training for each new member of the team
   
 ### Realtime Worlds, Inc., Boulder, CO
 *Online video game developer of the much hyped title, All Points Bulletin, released June 2010*
@@ -54,6 +63,7 @@ Driven Systems Administrator seeking a new opportunity.  Strong leader with exce
   * Assisted in the evaluation and selection of monitoring software
   * Implemented Solarwinds Orion NPM & APM and Nagios XI for system and network monitoring, and designed custom tools to monitor proprietary applications
   * Develop sophisticated scripts for automation, monitoring and testing that conformed to security policies
+  * Deploy, manage, configure, and monitor custom Java based account management system running under Tomcat
   * Performed training of Network Operations Center staff on proprietary systems and basic network and server troubleshooting
   * Performed Active Directory User and Computer management(adding, deleting, and moving Users and Computers)
   * Define and document procedures, and encourage use of, and evolve departmental Best Practices
