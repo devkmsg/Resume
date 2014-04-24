@@ -14,6 +14,11 @@ task :docx do
   `pandoc resume.md -o resume.docx --template=resume-template.tex`
 end
 
+desc "Generate resume.doc"
+task :doc do
+  `pandoc resume.md -s -t rtf -o resume.doc`
+end
+
 task :clean do
   `del resume.html resume.pdf resume.docx`
 end
