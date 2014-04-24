@@ -1,7 +1,7 @@
 # Andrew Thompson
 
-10 Railroad Street, Apt. 34C  
-Slatersville, RI 02876  
+19 Forbes Ave  
+Norwood, MA 02062  
 netengr2009@gmail.com  
 401.368.0359
 
@@ -11,17 +11,15 @@ Driven Systems Administrator seeking a new opportunity.  Strong leader with exce
 
 ## Skills
 ### Hardware
-  * Cisco Routers: (2500)
-  * Switches: Cisco (Catalyst 2900, 2950), Dell (PowerConnect M6220, 6248)
-  * Load Balancers: F5 Big-IP, Citrix Netscalar
+  * Switches: Dell (PowerConnect M6220, 6248)
+  * Load Balancers: F5 Big-IP
   * Servers: Dell PowerEdge (1855, 1955, M600, M610, R900)
   
 ### Software
   * Operating Systems: Microsoft Windows Desktop OS (2000, XP, Vista, 7), Microsoft Windows Server OS(2000, 2003, 2008), Linux (CentOS, Fedora, Ubuntu), VMWare ESXi 4.0 & 4.1
   * Monitoring Tools: BMC Patrol, Solarwinds Orion NPM & APM, Nagios Core, Nagios XI
-  * Ticketing Systems: Best Practical RT, Service-now IT Service Management Suite, Kayako SupportSuite
-  * Application Software: Microsoft Office 2003/2007 suite, Microsoft SQL Server 2000/2005/2008, Microsoft Visio 2003/2007, Microsoft Internet Information Services(IIS), McAfee Antivirus, Hilgraeve Hyperterminal, Putty, VisionApp Remote Desktop 2010 R2, Vandyke Secure CRT, Apache HTTP Server, Apache Tomcat, Puppetlabs Puppet, Puppetlabs MCollective, VI, Nano
-  * Enterprise Tools: Symantec Altiris Deployment Solution 6.4/6.9
+  * Ticketing Systems: Best Practical RT, Service-now IT Service Management Suite
+  * Application Software: Microsoft Office 2003/2007 suite, Microsoft SQL Server 2000/2005/2008, Microsoft Visio 2003/2007, Microsoft Internet Information Services(IIS), McAfee Antivirus, Putty, Vandyke Secure CRT, Apache HTTP Server, Apache Tomcat, Puppetlabs Puppet, Puppetlabs MCollective, Chef, Elasticsearch, Cassandra, Kafka, Zookeeper, ActiveMQ, RabbitMQ
   * Programming/Scripting Languages: C, C#, batch, vbs, Perl, Python, Ruby, bash
   
   
@@ -93,6 +91,3 @@ Driven Systems Administrator seeking a new opportunity.  Strong leader with exce
 Johnson & Wales University, Providence, RI						09/2005-11/2008  
 B.S. Network Engineering  
 GPA 3.52/4.00
-
-## Certifications
-  * Cisco Certified Entry Networking Technician (CCENT)
