@@ -24,10 +24,21 @@ Driven Systems Administrator seeking a new opportunity.  Strong leader with exce
   
   
 ## Experience
+### Constant Contact, Inc., Waltham, MA 
+*Leader in email marketing, social media marketing, event marketing, local deals, digital storefronts, and online surveys
+
+#### Applications Operations Engineer - June 2012 – July 2013
+  * Manage all of the deployment Jenkins jobs in the Continuous Delivery system
+  * Develop new environment and application agnostic deployment jobs
+  * Develop deployment automation scripts to interact with the applications and infrastructure
+  * Develop templating system for building out Jenkins jobs
+  * Installed and maintain Jenkins server for production deployments and verification
+  * Responsible for Production and QA support of all JBoss, JRuby on Rails applications and all supporting application infrastructure
+
 ### 38 Studios, LLC, Providence, RI
 *Developer of the much anticipated title, Kingdoms of Amalur: Reckoning, released February 2012 and the in development Project Copernicus*
 
-#### Operations Systems Administrator - November 2010 to May 2012 
+#### Operations Systems Administrator - November 2010 to May 2012
 
   * Administer 250+ production servers in the Terremark Enterprise Cloud
   * Administer 300+ development/testing servers hosted on multiple ESXi servers
