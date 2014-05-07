@@ -7,7 +7,7 @@ netengr2009@gmail.com
 
 ## Summary
 
-Driven Systems Administrator seeking a new opportunity.  Strong leader with exceptional analytical and problem solving skills with the ability to work under pressure.  Innovative thinker with interests in automation and scripting.
+Driven Systems Administrator seeking a new opportunity.  Strong leader with exceptional analytical and problem solving skills and the ability to work under pressure.  Innovative thinker with interests in automation and scripting.
 
 ## Skills
 ### Hardware
