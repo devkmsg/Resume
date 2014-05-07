@@ -24,6 +24,21 @@ Driven Systems Administrator seeking a new opportunity.  Strong leader with exce
   
   
 ## Experience
+### Firepub, Inc., Mansfield, MA
+*The create anything you can imagine platform*
+
+#### Senior Operations Engineer - July 2013 - Present
+  * Manage all services within AWS
+  * Develop and maintain chef cookbooks for all supported applications as needed
+  * Manage the chef server 
+  * Developed a system to deploy and update game server applications running on Windows in EC2 relatively quickly 
+  * Developed a self-service tool allowing a game studio to spin up an EC2 instance and deploy their game server and perform testing
+  * Assist in developing MCollective agents to manage game server update process 
+  * Push regular updates of the platform to production
+  * Assist in developing zero downtime platform deployment plan
+  * Performed new-hire training for each new member of the team
+  * Performed QA and Staging platform deployment training to members of Dev and QA
+  
 ### Constant Contact, Inc., Waltham, MA 
 *Leader in email marketing, social media marketing, event marketing, local deals, digital storefronts, and online surveys*
 
