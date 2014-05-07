@@ -29,6 +29,7 @@ Driven Systems Administrator seeking a new opportunity.  Strong leader with exce
 
 #### Senior Operations Engineer - July 2013 - Present
   * Manage all services within AWS
+  * Manage the Logstash, ElasticSearch infrastructure
   * Develop and maintain chef cookbooks for all supported applications as needed
   * Manage the chef server 
   * Developed a system to deploy and update game server applications running on Windows in EC2 relatively quickly 
@@ -60,18 +61,11 @@ Driven Systems Administrator seeking a new opportunity.  Strong leader with exce
   * Assisted in the development of a self-service portal for updating internal testing environments
   * Manage Webistrano installation enabling self-service deployments to the website developers
   * Architect of most of the Puppet infrastructure used in both the production and development/testing environments
-  * Develop sophisticated scripts for automation, monitoring and testing
-  * Deploy, manage, configure, and monitor custom Java based account management system
-  * Evaluated and selected monitoring software
-  * Implemented monitoring infrastructure that included Nagios Core, Distributed Nagios Executor (DNX) for scalability, Check_MK for a cleaner web UI, and pnp4nagios for rrd graphs
-  * Design custom tools to monitor proprietary applications
   * Developed a versioned Ubuntu package repository
   * Assist in developing MCollective agents to manage all the internal and 3rd party applications
   * Deploy and manage Jira application server
-  * Responsible for Production, QA, and Development support
   * Define and document procedures while supporting industry’s Best Practices
   * Responsible for implementing, monitoring, and maintaining the MySql backups for the website environment
-  * Serve as the scrum-master for the Operations crew
   * Performed new-hire training for each new member of the team
   
 ### Realtime Worlds, Inc., Boulder, CO
@@ -83,23 +77,9 @@ Driven Systems Administrator seeking a new opportunity.  Strong leader with exce
   * Performed initial hardware and software deployment at the primary North American Data Center
   * Performed expansion of hardware and software at the primary North American Data Center, including configuration and testing of all Dell PowerConnect switches
   * Implemented Storage Area Network (SAN) at the primary North American Data Center, including configuration of port-channels, VLANs and IP Routing
-  * Follow policies and procedures that conform to the ITIL Service Support IT Service Management set
-  * Troubleshot network and server outages seeing the issue to final resolution and providing Reason for Outage (RFO) and Root Cause Analysis (RCA)
   * Assisted remotely with the initial deployment and expansion of the primary European Data Center
-  * Assisted in the evaluation and selection of monitoring software
-  * Implemented Solarwinds Orion NPM & APM and Nagios XI for system and network monitoring, and designed custom tools to monitor proprietary applications
-  * Develop sophisticated scripts for automation, monitoring and testing that conformed to security policies
-  * Deploy, manage, configure, and monitor custom Java based account management system running under Tomcat
   * Performed training of Network Operations Center staff on proprietary systems and basic network and server troubleshooting
-  * Performed Active Directory User and Computer management(adding, deleting, and moving Users and Computers)
   * Define and document procedures, and encourage use of, and evolve departmental Best Practices
-  * Troubleshoot and resolve LAN issues between internal systems
-  * Monitor the Kayako SupportSuite Ticket queue through the work day and execute any applicable tickets
-  * Communicate scheduled maintenance, planned downtime and changes to the production environment to the appropriate groups
-  * Serve as the liaison between Online Engineering and Development teams in regards to defects, tickets and technical requests
-  * Coordinate and publish numerous game content updates
-  * Responsible for any automation and tool development within the department
-  * Responsible for QA and production game, database, infrastructure, and web server environments
   * Supported game from Beta stages to Live Production in a 24/7 environment
 
 ### Turbine, Inc., Westwood, MA
@@ -109,19 +89,15 @@ Driven Systems Administrator seeking a new opportunity.  Strong leader with exce
 
   * Administer 600+ servers spread across multiple datacenters
   * Supported 24/7 customer facing applications and services
-  * Performed Active Directory User and Computer management(adding, deleting, and moving Users and Computers)
-  * Troubleshot hardware and software issues
   * Responsible for the production and QA game server/SE (Service Engine) environment
   * Performed Windows Updates, game build updates, and other updates, as needed
   * Interfaced with QA and Development teams for current and future software development life cycle environment requirements
   * Updated documentation with any necessary changes, found inefficiencies in documented procedures and proposed new procedures
-  * Monitor the Service-Now Ticket queue through the work day and execute any applicable tickets
 
 #### Systems Administrator - Intern - June 2008 to August 2008
   * Performed game build updates, and other updates, as needed
   * Updated documentation with any necessary changes, found inefficiencies in documented procedures and proposed new procedures
   * Responsible for the QA environment
-  * Monitor the RT Ticket queue through the work day and execute any applicable tickets
 
 ## Education
 Johnson & Wales University, Providence, RI						09/2005-11/2008  
