@@ -3,9 +3,8 @@
 19 Forbes Ave • Norwood, MA 02062\\netengr2009@gmail.com • 401.368.0359
 \end{center}
 
-## Summary
 
-*Driven Systems Administrator seeking a new opportunity with a focus on cloud technologies. Strong leader with exceptional analytical and problem solving skills with the ability to work under pressure. Innovative thinker with interests in automation and configuration management.*
+*Driven Systems Administrator seeking a new opportunity with a focus on cloud technologies.  Strong leader with exceptional analytical and problem solving skills with the ability to work under pressure.  Innovative thinker with interests in automation and configuration management.*
 
 ## Skills
 ### Hardware
@@ -28,8 +27,8 @@
 #### Senior Operations Engineer - July 2013 - Present
   * Manage all services within AWS
   * Manage the Logstash, ElasticSearch infrastructure
-  * Develop and maintain chef cookbooks for all supported applications as needed
-  * Manage the chef server 
+  * Develop and maintain Chef cookbooks for all supported applications as needed
+  * Manage the Chef server 
   * Developed a system to deploy and update game server applications running on Windows in EC2 relatively quickly 
   * Developed a self-service tool allowing a game studio to spin up an EC2 instance and deploy their game server and perform testing
   * Assist in developing MCollective agents to manage game server update process 
