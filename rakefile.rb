@@ -1,21 +1,41 @@
+$files = []
+SOURCE = 'resume.md'
 
 desc "Generate resume.html"
 task :html do
-  `pandoc -t html -o resume.html -c resume.css resume.md`
+  file = 'resume.html'
+  $files << file
+  sh("pandoc -t html -o #{file} -c resume.css #{SOURCE}") 
 end
 
 desc "Generate resume.pdf"
 task :pdf do
-  `markdown2pdf --template=resume-template.tex --xetex resume.md`
+  file = 'resume.pdf'
+  $files << file
+  sh("pandoc #{SOURCE} -V geometry:margin=.5in -o #{file}")
 end
 
 desc "Generate resume.docx"
 task :docx do
-  `pandoc resume.md -o resume.docx --template=resume-template.tex`
+  file = 'resume.docx'
+  $files << file
+  sh("pandoc #{SOURCE} -o #{file} --template=resume-template.tex")
+end
+
+desc "Generate resume.doc"
+task :doc do
+  file = 'resume.doc'
+  $files << file
+  sh("pandoc #{SOURCE} -o #{file}")
 end
 
 task :clean do
-  `del resume.html resume.pdf resume.docx`
+  ['resume.html',
+  'resume.pdf',
+  'resume.docx',
+  'resume.doc'].each do |file|
+    rm file if File.exists? file
+  end 
 end
 
-task :default => [:pdf, :html, :docx]
+task :default => [:clean, :pdf, :html, :docx, :doc]
