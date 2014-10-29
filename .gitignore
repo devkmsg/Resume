@@ -1,4 +1,4 @@
-resume.html
-resume.pdf
-resume.doc
-resume.docx
+*.html
+*.pdf
+*.doc
+*.docx
