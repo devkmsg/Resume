@@ -25,7 +25,7 @@
 *The create anything you can imagine platform*
 
 #### Senior Operations Engineer - July 2013 - Present
-  * Manage all services within AWS
+  * Manage all company AWS services including EC2, S3, SES, SQS, RDS, Route53, CloudFront
   * Manage the Logstash, ElasticSearch infrastructure
   * Develop and maintain Chef cookbooks for all supported applications as needed
   * Manage the Chef server 
