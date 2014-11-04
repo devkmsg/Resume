@@ -16,7 +16,7 @@
   * Operating Systems: Microsoft Windows Desktop OS (2000, XP, Vista, 7), Microsoft Windows Server OS(2000, 2003, 2008), Linux (CentOS, Fedora, Ubuntu), VMWare ESXi 4.0 & 4.1
   * Monitoring Tools: BMC Patrol, Solarwinds Orion NPM & APM, Nagios Core, Nagios XI
   * Ticketing Systems: Best Practical RT, Service-now IT Service Management Suite, Jira
-  * Application Software: Microsoft Office 2003/2007 suite, Microsoft SQL Server 2000/2005/2008, Microsoft Visio 2003/2007, Microsoft Internet Information Services(IIS), McAfee Antivirus, Putty, Vandyke Secure CRT, Apache HTTP Server, Varnish, Squid, Nginx, Apache Tomcat, Chef, Puppetlabs Puppet, Puppetlabs MCollective, Func, Webistrano/Capistrano, Jenkins, Subversion, Git, Elasticsearch, Cassandra, Kafka, Zookeeper, ActiveMQ, RabbitMQ
+  * Application Software: Microsoft Office 2003/2007 suite, Microsoft SQL Server 2000/2005/2008, Microsoft Visio 2003/2007, Microsoft Internet Information Services(IIS), McAfee Antivirus, Putty, Vandyke Secure CRT, Apache HTTP Server, Varnish, Squid, Nginx, Apache Tomcat, Chef, Puppetlabs Puppet, Puppetlabs MCollective, Func, Webistrano/Capistrano, Jenkins, Subversion, Git, Elasticsearch, Cassandra, Kafka, Zookeeper, ActiveMQ, RabbitMQ, Vagrant
   * Programming/Scripting Languages: C, C#, batch, vbs, Perl, Python, Ruby, bash
   
   
