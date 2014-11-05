@@ -26,13 +26,13 @@
 
 #### Senior Operations Engineer - July 2013 - Present
   * Manage all company AWS services including EC2, S3, SES, SQS, RDS, Route53, and CloudFront
-  * Manage the Logstash, ElasticSearch infrastructure
+  * Manage the Logstash and ElasticSearch infrastructure
   * Develop and maintain Chef cookbooks for all supported applications as needed
   * Manage the Chef server 
   * Developed a system to deploy and update game server applications running on Windows in EC2 relatively quickly 
   * Developed a self-service tool allowing a game studio to spin up an EC2 instance and deploy their game server and perform testing
   * Push regular updates of the SaaS platform to production
-  * Assist in developing zero downtime deployment plan of the SaaS platform
+  * Assist in developing a zero downtime deployment plan for the SaaS platform
   * Provide recomendations on technical decision making that aligns with industry best practices
   * Mentor team members on various technical issues including new-hire training
   * Performed QA and Staging deployment training for members of Dev and QA
