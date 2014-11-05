@@ -31,8 +31,8 @@
   * Manage the Chef server 
   * Developed a system to deploy and update game server applications running on Windows in EC2 relatively quickly 
   * Developed a self-service tool allowing a game studio to spin up an EC2 instance and deploy their game server and perform testing
-  * Push regular updates of the platform to production
-  * Assist in developing zero downtime platform deployment plan
+  * Push regular updates of the SaaS platform to production
+  * Assist in developing zero downtime deployment plan of the SaaS platform
   * Performed new-hire training for each new member of the team
   * Performed QA and Staging platform deployment training to members of Dev and QA
   
