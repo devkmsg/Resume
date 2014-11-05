@@ -33,7 +33,8 @@
   * Developed a self-service tool allowing a game studio to spin up an EC2 instance and deploy their game server and perform testing
   * Push regular updates of the SaaS platform to production
   * Assist in developing zero downtime deployment plan of the SaaS platform
-  * Performed new-hire training for each new member of the team
+  * Provide recomendations on technical decision making that aligns with industry best practices
+  * Mentor team members on various technical issues including new-hire training
   * Performed QA and Staging deployment training for members of Dev and QA
   
 ### Constant Contact, Inc., Waltham, MA 
