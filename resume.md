@@ -34,7 +34,7 @@
   * Push regular updates of the SaaS platform to production
   * Assist in developing zero downtime deployment plan of the SaaS platform
   * Performed new-hire training for each new member of the team
-  * Performed QA and Staging platform deployment training to members of Dev and QA
+  * Performed QA and Staging deployment training for members of Dev and QA
   
 ### Constant Contact, Inc., Waltham, MA 
 *Leader in email marketing, social media marketing, event marketing, local deals, digital storefronts, and online surveys*
