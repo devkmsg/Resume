@@ -29,8 +29,8 @@
   * Manage the Logstash and ElasticSearch infrastructure
   * Develop and maintain Chef cookbooks for all supported applications as needed
   * Manage the Chef server 
-  * Developed a system to deploy and update game server applications running on Windows in EC2 relatively quickly 
   * Developed a self-service tool allowing a game studio to spin up an EC2 instance and deploy their game server and perform testing
+  * Developed a provisioning system that scales the instance count based on custom metrics
   * Push regular updates of the SaaS platform to production
   * Assist in developing a zero downtime deployment plan for the SaaS platform
   * Provide recomendations on technical decision making that aligns with industry best practices
