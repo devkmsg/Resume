@@ -33,7 +33,7 @@
   * Developed a provisioning system that scales the instance count based on custom metrics
   * Push regular updates of the SaaS platform to production
   * Assist in developing a zero downtime deployment plan for the SaaS platform
-  * Provide recomendations on technical decision making that aligns with industry best practices
+  * Provide recommendations on technical decision making that aligns with industry best practices
   * Mentor team members on various technical issues including new-hire training
   * Performed QA and Staging deployment training for members of Dev and QA
   
