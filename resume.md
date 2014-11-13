@@ -76,15 +76,15 @@
 
 #### Systems Administrator - July 2009 to September 2010
 
-  * Administer 400+ servers and 30+ L2 and L3 switches spread across multiple global datacenters
+  * Administered 400+ servers and 30+ L2 and L3 switches spread across multiple global datacenters
   * Performed initial hardware and software deployment at the primary North American Data Center
   * Performed expansion of hardware and software at the primary North American Data Center, including configuration and testing of all Dell PowerConnect switches
   * Implemented Storage Area Network (SAN) at the primary North American Data Center, including configuration of port-channels, VLANs and IP Routing
   * Assisted remotely with the initial deployment and expansion of the primary European Data Center
   * Implemented Solarwinds Orion NPM & APM and Nagios XI for system and network monitoring, and designed custom tools to monitor proprietary applications
-  * Develop sophisticated scripts for automation, monitoring and testing that conformed to security policies
+  * Developed sophisticated scripts for automation, monitoring and testing that conformed to security policies
   * Performed training of Network Operations Center staff on proprietary systems and basic network and server troubleshooting
-  * Define and document procedures, and encourage use of, and evolve departmental Best Practices
+  * Defined and documented procedures, and encouraged use of, and evolved departmental Best Practices
   * Supported game from Beta stages to Live Production in a 24/7 environment
 
 ### Turbine, Inc., Westwood, MA
