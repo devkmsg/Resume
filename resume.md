@@ -28,16 +28,16 @@
   * Manage all company AWS services spread across multiple regions including EC2, S3, SES, SQS, RDS, Route53, and CloudFront
   * Deploy and monitor logging infrastructure in CI, QA, and Production that includes Logstash and ElasticSearch
   * Develop and maintain Chef cookbooks for all supported applications as needed
-  * Developed and maintain ruby gem that wraps the FirePub API
+  * Developed and maintain a Ruby gem that wraps the FirePub API
   * Developed and maintain a self-service tool using the AWS SDK that would allow a game studio to spin up an EC2 instance, deploy their game server, and perform testing
-  * Developed a provisioning system that integrates with the AWS and FirePub APIs that scales the instance count based on custom metrics found in one of the FirePub's api's
-  * Develop sophisticated scripts for automation, monitoring and testing that meet FirePub and client need
+  * Developed a provisioning system that integrates with the AWS and FirePub APIs that scales the instance count based on custom metrics found in one of the FirePub's APIs
+  * Develop sophisticated scripts for automation, monitoring and testing that meet FirePub's and/or client need
   * Push regular updates of the SaaS platform to Production
   * Assist in developing a zero downtime deployment plan for the SaaS platform
   * Provide recommendations on technical decision making that aligns with industry best practices
   * Mentor team members on various technical issues including new-hire training
   * Performed QA and Staging deployment training for members of Dev and QA
-  * Manage tasks and projects using scrum
+  * Manage tasks and projects using Scrum
   
 ### Constant Contact, Inc., Waltham, MA 
 *Leader in email marketing, social media marketing, event marketing, local deals, digital storefronts, and online surveys*
@@ -49,7 +49,7 @@
   * Develop templating system for building out Jenkins jobs
   * Installed and maintain Jenkins server for production deployments and verification
   * Responsible for Production and QA support of all JBoss, JRuby on Rails applications and all supporting application infrastructure
-  * Manage tasks and projects using kanban
+  * Manage tasks and projects using Kanban
 
 ### 38 Studios, LLC, Providence, RI
 *Developer of the much anticipated title, Kingdoms of Amalur: Reckoning, released February 2012 and the in development Project Copernicus*
@@ -69,7 +69,7 @@
   * Define and document procedures while supporting industry’s Best Practices
   * Responsible for implementing, monitoring, and maintaining the MySql backups for the website environment
   * Performed new-hire training for each new member of the team
-  * Served as the scrum-master for the Operations crew
+  * Served as the Scrum Master for the Operations crew
   
 ### Realtime Worlds, Inc., Boulder, CO
 *Online video game developer of the much hyped title, All Points Bulletin, released June 2010*
