@@ -28,10 +28,11 @@
   * Manage all company AWS services including EC2, S3, SES, SQS, RDS, Route53, and CloudFront
   * Manage the Logstash and ElasticSearch infrastructure
   * Develop and maintain Chef cookbooks for all supported applications as needed
-  * Manage the Chef server 
-  * Developed a self-service tool allowing a game studio to spin up an EC2 instance and deploy their game server and perform testing
-  * Developed a provisioning system that scales the instance count based on custom metrics
   * Push regular updates of the SaaS platform to production
+  * Developed and maintain ruby gem that wraps the FirePub API
+  * Developed and maintain a self-service tool using the AWS SDK that would allow a game studio to spin up an EC2 instance, deploy their game server, and perform testing
+  * Developed a provisioning system that integrates with the AWS and FirePub APIs that scales the instance count based on custom metrics found in one of the FirePub's api's
+  * Develop sophisticated scripts for automation, monitoring and testing that meet FirePub and client need
   * Assist in developing a zero downtime deployment plan for the SaaS platform
   * Provide recommendations on technical decision making that aligns with industry best practices
   * Mentor team members on various technical issues including new-hire training
@@ -60,6 +61,7 @@
   * Assisted in the development of a self-service portal for updating internal testing environments
   * Manage Webistrano installation enabling self-service deployments to the website developers
   * Architect of most of the Puppet infrastructure used in both the production and development/testing environments
+  * Develop sophisticated scripts for automation, monitoring and testing
   * Developed a versioned Ubuntu package repository
   * Assist in developing MCollective agents to manage all the internal and 3rd party applications
   * Deploy and manage Jira application server
@@ -78,6 +80,7 @@
   * Performed expansion of hardware and software at the primary North American Data Center, including configuration and testing of all Dell PowerConnect switches
   * Implemented Storage Area Network (SAN) at the primary North American Data Center, including configuration of port-channels, VLANs and IP Routing
   * Assisted remotely with the initial deployment and expansion of the primary European Data Center
+  * Develop sophisticated scripts for automation, monitoring and testing that conformed to security policies
   * Performed training of Network Operations Center staff on proprietary systems and basic network and server troubleshooting
   * Define and document procedures, and encourage use of, and evolve departmental Best Practices
   * Supported game from Beta stages to Live Production in a 24/7 environment
