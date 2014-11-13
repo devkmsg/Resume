@@ -28,11 +28,11 @@
   * Manage all company AWS services spread across multiple regions including EC2, S3, SES, SQS, RDS, Route53, and CloudFront
   * Deploy and monitor logging infrastructure in CI, QA, and Production that includes Logstash and ElasticSearch
   * Develop and maintain Chef cookbooks for all supported applications as needed
-  * Push regular updates of the SaaS platform to production
   * Developed and maintain ruby gem that wraps the FirePub API
   * Developed and maintain a self-service tool using the AWS SDK that would allow a game studio to spin up an EC2 instance, deploy their game server, and perform testing
   * Developed a provisioning system that integrates with the AWS and FirePub APIs that scales the instance count based on custom metrics found in one of the FirePub's api's
   * Develop sophisticated scripts for automation, monitoring and testing that meet FirePub and client need
+  * Push regular updates of the SaaS platform to Production
   * Assist in developing a zero downtime deployment plan for the SaaS platform
   * Provide recommendations on technical decision making that aligns with industry best practices
   * Mentor team members on various technical issues including new-hire training
