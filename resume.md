@@ -36,6 +36,7 @@
   * Provide recommendations on technical decision making that aligns with industry best practices
   * Mentor team members on various technical issues including new-hire training
   * Performed QA and Staging deployment training for members of Dev and QA
+  * Manage tasks and projects using scrum
   
 ### Constant Contact, Inc., Waltham, MA 
 *Leader in email marketing, social media marketing, event marketing, local deals, digital storefronts, and online surveys*
@@ -47,6 +48,7 @@
   * Develop templating system for building out Jenkins jobs
   * Installed and maintain Jenkins server for production deployments and verification
   * Responsible for Production and QA support of all JBoss, JRuby on Rails applications and all supporting application infrastructure
+  * Manage tasks and projects using kanban
 
 ### 38 Studios, LLC, Providence, RI
 *Developer of the much anticipated title, Kingdoms of Amalur: Reckoning, released February 2012 and the in development Project Copernicus*
@@ -64,6 +66,7 @@
   * Define and document procedures while supporting industry’s Best Practices
   * Responsible for implementing, monitoring, and maintaining the MySql backups for the website environment
   * Performed new-hire training for each new member of the team
+  * Served as the scrum-master for the Operations crew
   
 ### Realtime Worlds, Inc., Boulder, CO
 *Online video game developer of the much hyped title, All Points Bulletin, released June 2010*
