@@ -56,17 +56,17 @@
 
 #### Operations Systems Administrator - November 2010 to May 2012
 
-  * Administer 250+ production servers in the Terremark Enterprise Cloud
-  * Administer 300+ development/testing servers hosted on multiple ESXi servers
+  * Administered 250+ production servers in the Terremark Enterprise Cloud
+  * Administered 300+ development/testing servers hosted on multiple ESXi servers
   * Assisted in the development of a self-service portal for updating internal testing environments
-  * Manage Webistrano installation enabling self-service deployments to the website developers
+  * Managed Webistrano installation enabling self-service deployments to the website developers
   * Architect of most of the Puppet infrastructure used in both the production and development/testing environments
-  * Develop sophisticated scripts for automation, monitoring and testing
+  * Developed sophisticated scripts for automation, monitoring and testing
   * Implemented monitoring infrastructure that included Nagios Core, Distributed Nagios Executor (DNX) for scalability, Check_MK for a cleaner web UI, and pnp4nagios for rrd graphs
   * Developed a versioned Ubuntu package repository
-  * Assist in developing MCollective agents to manage all the internal and 3rd party applications
-  * Deploy and manage Jira application server
-  * Define and document procedures while supporting industry’s Best Practices
+  * Assisted in developing MCollective agents to manage all the internal and 3rd party applications
+  * Deployed and managed Jira application server
+  * Defined and documented procedures while supporting industry’s Best Practices
   * Responsible for implementing, monitoring, and maintaining the MySql backups for the website environment
   * Performed new-hire training for each new member of the team
   * Served as the Scrum Master for the Operations crew
