@@ -43,30 +43,30 @@
 *Leader in email marketing, social media marketing, event marketing, local deals, digital storefronts, and online surveys*
 
 #### Applications Operations Engineer - June 2012 – July 2013
-  * Manage 200+ deployment Jenkins jobs in the Continuous Delivery system
-  * Develop new environment and application agnostic deployment jobs
-  * Develop deployment automation scripts to interact with the applications and infrastructure
-  * Develop templating system for building out Jenkins jobs
-  * Installed and maintain Jenkins server for production deployments and verification
+  * Managed 200+ deployment Jenkins jobs in the Continuous Delivery system
+  * Developed new environment and application agnostic deployment jobs
+  * Developed deployment automation scripts to interact with the applications and infrastructure
+  * Developed templating system for building out Jenkins jobs
+  * Installed and maintained Jenkins server for production deployments and verification
   * Responsible for Production and QA support of all JBoss, JRuby on Rails applications and all supporting application infrastructure
-  * Manage tasks and projects using Kanban
+  * Managed tasks and projects using Kanban
 
 ### 38 Studios, LLC, Providence, RI
 *Developer of the much anticipated title, Kingdoms of Amalur: Reckoning, released February 2012 and the in development Project Copernicus*
 
 #### Operations Systems Administrator - November 2010 to May 2012
 
-  * Administer 250+ production servers in the Terremark Enterprise Cloud
-  * Administer 300+ development/testing servers hosted on multiple ESXi servers
+  * Administered 250+ production servers in the Terremark Enterprise Cloud
+  * Administered 300+ development/testing servers hosted on multiple ESXi servers
   * Assisted in the development of a self-service portal for updating internal testing environments
-  * Manage Webistrano installation enabling self-service deployments to the website developers
+  * Managed Webistrano installation enabling self-service deployments to the website developers
   * Architect of most of the Puppet infrastructure used in both the production and development/testing environments
-  * Develop sophisticated scripts for automation, monitoring and testing
+  * Developed sophisticated scripts for automation, monitoring and testing
   * Implemented monitoring infrastructure that included Nagios Core, Distributed Nagios Executor (DNX) for scalability, Check_MK for a cleaner web UI, and pnp4nagios for rrd graphs
   * Developed a versioned Ubuntu package repository
-  * Assist in developing MCollective agents to manage all the internal and 3rd party applications
-  * Deploy and manage Jira application server
-  * Define and document procedures while supporting industry’s Best Practices
+  * Assisted in developing MCollective agents to manage all the internal and 3rd party applications
+  * Deployed and managed Jira application server
+  * Defined and documented procedures while supporting industry’s Best Practices
   * Responsible for implementing, monitoring, and maintaining the MySql backups for the website environment
   * Performed new-hire training for each new member of the team
   * Served as the Scrum Master for the Operations crew
@@ -76,15 +76,15 @@
 
 #### Systems Administrator - July 2009 to September 2010
 
-  * Administer 400+ servers and 30+ L2 and L3 switches spread across multiple global datacenters
+  * Administered 400+ servers and 30+ L2 and L3 switches spread across multiple global datacenters
   * Performed initial hardware and software deployment at the primary North American Data Center
   * Performed expansion of hardware and software at the primary North American Data Center, including configuration and testing of all Dell PowerConnect switches
   * Implemented Storage Area Network (SAN) at the primary North American Data Center, including configuration of port-channels, VLANs and IP Routing
   * Assisted remotely with the initial deployment and expansion of the primary European Data Center
   * Implemented Solarwinds Orion NPM & APM and Nagios XI for system and network monitoring, and designed custom tools to monitor proprietary applications
-  * Develop sophisticated scripts for automation, monitoring and testing that conformed to security policies
+  * Developed sophisticated scripts for automation, monitoring and testing that conformed to security policies
   * Performed training of Network Operations Center staff on proprietary systems and basic network and server troubleshooting
-  * Define and document procedures, and encourage use of, and evolve departmental Best Practices
+  * Defined and documented procedures, and encouraged use of, and evolved departmental Best Practices
   * Supported game from Beta stages to Live Production in a 24/7 environment
 
 ### Turbine, Inc., Westwood, MA
@@ -92,7 +92,7 @@
 
 #### Staff Systems Administrator - August 2008 to July 2009
 
-  * Administer 600+ servers spread across multiple datacenters
+  * Administered 600+ servers spread across multiple datacenters
   * Supported 24/7 customer facing applications and services
   * Responsible for the production and QA game server/SE (Service Engine) environment
   * Performed Windows Updates, game build updates, and other updates, as needed
