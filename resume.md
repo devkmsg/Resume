@@ -62,6 +62,7 @@
   * Manage Webistrano installation enabling self-service deployments to the website developers
   * Architect of most of the Puppet infrastructure used in both the production and development/testing environments
   * Develop sophisticated scripts for automation, monitoring and testing
+  * Implemented monitoring infrastructure that included Nagios Core, Distributed Nagios Executor (DNX) for scalability, Check_MK for a cleaner web UI, and pnp4nagios for rrd graphs
   * Developed a versioned Ubuntu package repository
   * Assist in developing MCollective agents to manage all the internal and 3rd party applications
   * Deploy and manage Jira application server
@@ -80,6 +81,7 @@
   * Performed expansion of hardware and software at the primary North American Data Center, including configuration and testing of all Dell PowerConnect switches
   * Implemented Storage Area Network (SAN) at the primary North American Data Center, including configuration of port-channels, VLANs and IP Routing
   * Assisted remotely with the initial deployment and expansion of the primary European Data Center
+  * Implemented Solarwinds Orion NPM & APM and Nagios XI for system and network monitoring, and designed custom tools to monitor proprietary applications
   * Develop sophisticated scripts for automation, monitoring and testing that conformed to security policies
   * Performed training of Network Operations Center staff on proprietary systems and basic network and server troubleshooting
   * Define and document procedures, and encourage use of, and evolve departmental Best Practices
