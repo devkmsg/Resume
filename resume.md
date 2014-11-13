@@ -43,13 +43,13 @@
 *Leader in email marketing, social media marketing, event marketing, local deals, digital storefronts, and online surveys*
 
 #### Applications Operations Engineer - June 2012 – July 2013
-  * Manage 200+ deployment Jenkins jobs in the Continuous Delivery system
-  * Develop new environment and application agnostic deployment jobs
-  * Develop deployment automation scripts to interact with the applications and infrastructure
-  * Develop templating system for building out Jenkins jobs
-  * Installed and maintain Jenkins server for production deployments and verification
+  * Managed 200+ deployment Jenkins jobs in the Continuous Delivery system
+  * Developed new environment and application agnostic deployment jobs
+  * Developed deployment automation scripts to interact with the applications and infrastructure
+  * Developed templating system for building out Jenkins jobs
+  * Installed and maintained Jenkins server for production deployments and verification
   * Responsible for Production and QA support of all JBoss, JRuby on Rails applications and all supporting application infrastructure
-  * Manage tasks and projects using Kanban
+  * Managed tasks and projects using Kanban
 
 ### 38 Studios, LLC, Providence, RI
 *Developer of the much anticipated title, Kingdoms of Amalur: Reckoning, released February 2012 and the in development Project Copernicus*
