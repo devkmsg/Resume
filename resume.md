@@ -43,7 +43,7 @@
 *Leader in email marketing, social media marketing, event marketing, local deals, digital storefronts, and online surveys*
 
 #### Applications Operations Engineer - June 2012 – July 2013
-  * Manage all of the deployment Jenkins jobs in the Continuous Delivery system
+  * Manage 200+ deployment Jenkins jobs in the Continuous Delivery system
   * Develop new environment and application agnostic deployment jobs
   * Develop deployment automation scripts to interact with the applications and infrastructure
   * Develop templating system for building out Jenkins jobs
