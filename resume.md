@@ -37,7 +37,7 @@
   * Provide recommendations on technical decision making that aligns with industry best practices
   * Mentor team members on various technical issues including new-hire training
   * Performed QA and Staging deployment training for members of Dev and QA
-  * Manage tasks and projects using Scrum
+  * Manage tasks and projects using Scrum while utilizing Redmine
   
 ### Constant Contact, Inc., Waltham, MA 
 *Leader in email marketing, social media marketing, event marketing, local deals, digital storefronts, and online surveys*
@@ -49,7 +49,7 @@
   * Developed templating system for building out Jenkins jobs
   * Installed and maintained Jenkins server for production deployments and verification
   * Responsible for Production and QA support of all JBoss, JRuby on Rails applications and all supporting application infrastructure
-  * Managed tasks and projects using Kanban
+  * Managed tasks and projects using Kanban while utilizing Jira's GreenHopper plugin
 
 ### 38 Studios, LLC, Providence, RI
 *Developer of the much anticipated title, Kingdoms of Amalur: Reckoning, released February 2012 and the in development Project Copernicus*
