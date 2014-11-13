@@ -92,7 +92,7 @@
 
 #### Staff Systems Administrator - August 2008 to July 2009
 
-  * Administer 600+ servers spread across multiple datacenters
+  * Administered 600+ servers spread across multiple datacenters
   * Supported 24/7 customer facing applications and services
   * Responsible for the production and QA game server/SE (Service Engine) environment
   * Performed Windows Updates, game build updates, and other updates, as needed
