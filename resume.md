@@ -7,19 +7,13 @@
 *Driven Systems Administrator seeking a new opportunity with a focus on cloud technologies.  Strong leader with exceptional analytical and problem solving skills with the ability to work under pressure.  Innovative thinker with interests in automation and configuration management.*
 
 ## Skills
-### Hardware
-  * Switches: Dell (PowerConnect M6220, 6248)
-  * Load Balancers: F5 Big-IP
-  * Servers: Dell PowerEdge (1855, 1955, M600, M610, R900)
-  
-### Software
-  * Operating Systems: Microsoft Windows Desktop OS (XP, Vista, 7), Microsoft Windows Server OS(2003, 2008), Linux (CentOS, Ubuntu), VMWare ESXi 4.0 & 4.1
-  * Monitoring Tools: BMC Patrol, Solarwinds Orion NPM & APM, Nagios Core, Nagios XI
-  * Ticketing Systems: Best Practical RT, Service-now IT Service Management Suite, Jira
-  * Application Software: Microsoft Office 2010/2013 suite, Microsoft SQL Server 2008, Microsoft Visio 2007, Microsoft Internet Information Services(IIS), McAfee Antivirus, Putty, Vandyke Secure CRT, Apache HTTP Server, Varnish, Squid, Nginx, Apache Tomcat, Chef, Puppetlabs Puppet, Puppetlabs MCollective, Func, Webistrano/Capistrano, Jenkins, Subversion, Git, Elasticsearch, Cassandra, Kafka, Zookeeper, ActiveMQ, RabbitMQ, Vagrant
-  * Programming/Scripting Languages: Ruby, Python, bash, Perl, batch, vbs
-  
-  
+  * Operating Systems: Linux (CentOS, Ubuntu), VMWare ESXi 4.0 & 4.1
+  * Monitoring Tools:
+  * Ticketing Systems: Jira
+  * Application Software: Microsoft Office 2010/2013 suite, Microsoft SQL Server 2008, Apache HTTP Server, Nginx, Chef, Func, Jenkins, Git, Elasticsearch, Cassandra, Kafka, Zookeeper, RabbitMQ, Vagrant
+  * Programming/Scripting Languages: Ruby, Python, bash
+
+
 ## Experience
 ### Firepub, Inc., Mansfield, MA
 *The create anything you can imagine platform*
