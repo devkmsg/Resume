@@ -32,8 +32,8 @@
   * Mentor team members on various technical issues including new-hire training
   * Performed QA and Staging deployment training for members of Dev and QA
   * Manage tasks and projects using Scrum while utilizing Redmine
-  
-### Constant Contact, Inc., Waltham, MA 
+
+### Constant Contact, Inc., Waltham, MA
 *Leader in email marketing, social media marketing, event marketing, local deals, digital storefronts, and online surveys*
 
 #### Applications Operations Engineer - June 2012 – July 2013
@@ -64,7 +64,7 @@
   * Responsible for implementing, monitoring, and maintaining the MySql backups for the website environment
   * Performed new-hire training for each new member of the team
   * Served as the Scrum Master for the Operations crew
-  
+
 ### Realtime Worlds, Inc., Boulder, CO
 *Online video game developer of the much hyped title, All Points Bulletin, released June 2010*
 
