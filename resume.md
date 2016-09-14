@@ -1,6 +1,6 @@
 \begin{center}
 \section{\textbf{Andrew Thompson}}
-19 Forbes Ave • Norwood, MA 02062\\netengr2009@gmail.com • 401.368.0359
+80 Oakdale Street, Apt. 40 • Attleboro, MA 02703\\netengr2009@gmail.com • 401.368.0359
 \end{center}
 
 
