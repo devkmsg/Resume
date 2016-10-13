@@ -18,20 +18,20 @@
 ### Firepub, Inc., Mansfield, MA
 *The create anything you can imagine platform*
 
-#### Senior Operations Engineer - July 2013 - Present
-  * Manage all company AWS services spread across multiple regions including EC2, S3, SES, SQS, RDS, Route53, and CloudFront
-  * Deploy and monitor logging infrastructure in CI, QA, and Production that includes Logstash and ElasticSearch
-  * Develop and maintain Chef cookbooks for all supported applications as needed
-  * Developed and maintain a Ruby gem that wraps the FirePub API
-  * Developed and maintain a self-service tool using the AWS SDK that would allow a game studio to spin up an EC2 instance, deploy their game server, and perform testing
-  * Developed a provisioning system that integrates with the AWS and FirePub APIs that scales the instance count based on custom metrics found in one of the FirePub's APIs
-  * Develop sophisticated scripts for automation, monitoring and testing that meet FirePub's and/or client need
-  * Push regular updates of the SaaS platform to Production
-  * Assist in developing a zero downtime deployment plan for the SaaS platform
-  * Provide recommendations on technical decision making that aligns with industry best practices
-  * Mentor team members on various technical issues including new-hire training
+#### Senior Operations Engineer - July 2013 - January 2015
+  * Managed all company AWS services spread across multiple regions including EC2, S3, SES, SQS, RDS, Route53, and CloudFront
+  * Deployed and monitored logging infrastructure in CI, QA, and Production that includes Logstash and ElasticSearch
+  * Developed and maintained Chef cookbooks for all supported applications as needed
+  * Developed and maintained a Ruby gem that wraps the FirePub API
+  * Developed and maintained a self-service tool using the AWS SDK that would allow a game studio to spin up an EC2 instance, deploy their game server, and perform testing
+  * Developed a provisioning system that integrated with the AWS and FirePub APIs that scaled the instance count based on custom metrics found in one of the FirePub's APIs
+  * Developed sophisticated scripts for automation, monitoring and testing that met FirePub's and/or client need
+  * Pushed regular updates of the SaaS platform to Production
+  * Assisted in developing a zero downtime deployment plan for the SaaS platform
+  * Provided recommendations on technical decision making that aligns with industry best practices
+  * Mentored team members on various technical issues including new-hire training
   * Performed QA and Staging deployment training for members of Dev and QA
-  * Manage tasks and projects using Scrum while utilizing Redmine
+  * Managed tasks and projects using Scrum while utilizing Redmine
 
 ### Constant Contact, Inc., Waltham, MA
 *Leader in email marketing, social media marketing, event marketing, local deals, digital storefronts, and online surveys*
