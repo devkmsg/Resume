@@ -8,9 +8,9 @@
 
 ## Skills
   * Operating Systems: Linux (CentOS, Ubuntu), VMWare ESXi 4.0 & 4.1
-  * Monitoring Tools:
+  * Monitoring Tools: DataDog
   * Ticketing Systems: Jira
-  * Application Software: Microsoft Office 2010/2013 suite, Microsoft SQL Server 2008, Apache HTTP Server, Nginx, Chef, Func, Jenkins, Git, Elasticsearch, Cassandra, Kafka, Zookeeper, RabbitMQ, Vagrant
+  * Application Software: Microsoft Office 2010/2013 suite, Microsoft SQL Server 2008, Apache HTTP Server, Nginx, HAProxy, Puppet, Chef, Func, Jenkins, Git, Elasticsearch, Cassandra, Kafka, Zookeeper, RabbitMQ, Vagrant
   * Programming/Scripting Languages: Ruby, Python, bash
 
 
