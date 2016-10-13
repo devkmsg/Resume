@@ -4,7 +4,7 @@
 \end{center}
 
 
-*Driven Systems Administrator seeking a new opportunity with a focus on cloud technologies.  Strong leader with exceptional analytical and problem solving skills with the ability to work under pressure.  Innovative thinker with interests in automation and configuration management.*
+*Driven Software Engineer exploring new opportunities.  Strong leader with exceptional analytical and problem solving skills with the ability to work under pressure.  Innovative thinker with strengths in Elasticsearch and Ruby.*
 
 ## Skills
   * Operating Systems: Linux (CentOS, Ubuntu), VMWare ESXi 4.0 & 4.1
