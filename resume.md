@@ -15,6 +15,19 @@
 
 
 ## Experience
+### Rapid7, Inc., Cambridge, MA
+*Leading provider of security data and analytics solutions that enable organizations to implement an active, analytics-driven approach to cyber security*
+
+#### Senior Software Engineer - January 2015 - Present
+  * Manage all AWS resources that make up the core persistence and queuing services (RabbitMQ, Cassandra, Elasticsearch)
+  * Steward all automation efforts, providing guidance, and reviewing code for all internal teams
+  * Maintain, monitor, and scale over 12 Elasticsearch clusters that hold over 30TB of data
+  * Maintain a tool called elasticsearch-drain to help roll out new Elasticsearch servers into our clusters
+  * Assist in the development of Convection: an "infrastructure as code" wrapper around AWS Cloudformation with some extra bells
+  * Deploy monitoring for all Elasticsearch clusters to indicate when the cluster needs to be scaled
+  * Advise teams on Elasticsearch best practices, review architecture plans, make suggestions on architecture to meet scale requirements
+  * Maintain Chef cookbooks that ensure a repeatable AWS AMI "bake", that enable engineers to deploy code dozens of times a day
+
 ### Firepub, Inc., Mansfield, MA
 *The create anything you can imagine platform*
 
