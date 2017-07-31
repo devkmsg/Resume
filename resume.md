@@ -7,10 +7,10 @@
 *Driven Software Engineer exploring new opportunities.  Strong leader with exceptional analytical and problem solving skills with the ability to work under pressure.  Innovative thinker with strengths in Elasticsearch and Ruby.*
 
 ## Skills
-  * Operating Systems: Linux (CentOS, Ubuntu), VMWare ESXi 4.0 & 4.1
+  * Operating Systems: Linux (CentOS, Ubuntu)
   * Monitoring Tools: DataDog
   * Ticketing Systems: Jira
-  * Application Software: Microsoft Office 2010/2013 suite, Microsoft SQL Server 2008, Apache HTTP Server, Nginx, HAProxy, Puppet, Chef, Func, Jenkins, Git, Elasticsearch, Cassandra, Kafka, Zookeeper, RabbitMQ, Vagrant
+  * Application Software: Microsoft Office 2010/2013 suite, Apache HTTP Server, Nginx, HAProxy, Puppet, Chef, Jenkins, Git, Elasticsearch, Cassandra, Kafka, Zookeeper, RabbitMQ, Vagrant
   * Programming/Scripting Languages: Ruby, Python, bash
 
 
@@ -18,7 +18,8 @@
 ### Rapid7, Inc., Cambridge, MA
 *Leading provider of security data and analytics solutions that enable organizations to implement an active, analytics-driven approach to cyber security*
 
-#### Senior Software Engineer - January 2015 - Present
+#### Lead Software Engineer - January 2015 - Present
+  * Manage a team of 3 engineers with the goal to help all engineers move fast, keep the platform secure, and to lower costs
   * Manage all AWS resources that make up the core persistence and queuing services (RabbitMQ, Cassandra, Elasticsearch)
   * Steward all automation efforts, providing guidance, and reviewing code for all internal teams
   * Maintain, monitor, and scale over 12 Elasticsearch clusters that hold over 30TB of data
@@ -27,6 +28,7 @@
   * Deploy monitoring for all Elasticsearch clusters to indicate when the cluster needs to be scaled
   * Advise teams on Elasticsearch best practices, review architecture plans, make suggestions on architecture to meet scale requirements
   * Maintain Chef cookbooks that ensure a repeatable AWS AMI "bake", that enable engineers to deploy code dozens of times a day
+  * Various management tasks: hiring, reviews, 1-1s, etc.
 
 ### Firepub, Inc., Mansfield, MA
 *The create anything you can imagine platform*
