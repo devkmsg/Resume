@@ -1,45 +1,54 @@
 \begin{center}
 \section{\textbf{Andrew Thompson}}
-19 Forbes Ave • Norwood, MA 02062\\netengr2009@gmail.com • 401.368.0359
+80 Oakdale Street, Apt. 40 • Attleboro, MA 02703\\netengr2009@gmail.com • 401.368.0359
 \end{center}
 
 
-*Driven Systems Administrator seeking a new opportunity with a focus on cloud technologies.  Strong leader with exceptional analytical and problem solving skills with the ability to work under pressure.  Innovative thinker with interests in automation and configuration management.*
+*Driven Software Engineer exploring new opportunities.  Strong leader with exceptional analytical and problem solving skills with the ability to work under pressure.  Innovative thinker with strengths in Elasticsearch and Ruby.*
 
 ## Skills
-### Hardware
-  * Switches: Dell (PowerConnect M6220, 6248)
-  * Load Balancers: F5 Big-IP
-  * Servers: Dell PowerEdge (1855, 1955, M600, M610, R900)
-  
-### Software
-  * Operating Systems: Microsoft Windows Desktop OS (XP, Vista, 7), Microsoft Windows Server OS(2003, 2008), Linux (CentOS, Ubuntu), VMWare ESXi 4.0 & 4.1
-  * Monitoring Tools: BMC Patrol, Solarwinds Orion NPM & APM, Nagios Core, Nagios XI
-  * Ticketing Systems: Best Practical RT, Service-now IT Service Management Suite, Jira
-  * Application Software: Microsoft Office 2010/2013 suite, Microsoft SQL Server 2008, Microsoft Visio 2007, Microsoft Internet Information Services(IIS), McAfee Antivirus, Putty, Vandyke Secure CRT, Apache HTTP Server, Varnish, Squid, Nginx, Apache Tomcat, Chef, Puppetlabs Puppet, Puppetlabs MCollective, Func, Webistrano/Capistrano, Jenkins, Subversion, Git, Elasticsearch, Cassandra, Kafka, Zookeeper, ActiveMQ, RabbitMQ, Vagrant
-  * Programming/Scripting Languages: Ruby, Python, bash, Perl, batch, vbs
-  
-  
+  * Operating Systems: Linux (CentOS, Ubuntu)
+  * Monitoring Tools: DataDog
+  * Ticketing Systems: Jira
+  * Application Software: Microsoft Office 2010/2013 suite, Apache HTTP Server, Nginx, HAProxy, Puppet, Chef, Jenkins, Git, Elasticsearch, Cassandra, Kafka, Zookeeper, RabbitMQ, Vagrant
+  * Programming/Scripting Languages: Ruby, Python, bash
+
+
 ## Experience
+### Rapid7, Inc., Cambridge, MA
+*Leading provider of security data and analytics solutions that enable organizations to implement an active, analytics-driven approach to cyber security*
+
+#### Lead Software Engineer - January 2015 - Present
+  * Manage a team of 3 engineers with the goal to help all engineers move fast, keep the platform secure, and to lower costs
+  * Manage all AWS resources that make up the core persistence and queuing services (RabbitMQ, Cassandra, Elasticsearch)
+  * Steward all automation efforts, providing guidance, and reviewing code for all internal teams
+  * Maintain, monitor, and scale over 12 Elasticsearch clusters that hold over 30TB of data
+  * Maintain a tool called elasticsearch-drain to help roll out new Elasticsearch servers into our clusters
+  * Assist in the development of Convection: an "infrastructure as code" wrapper around AWS Cloudformation with some extra bells
+  * Deploy monitoring for all Elasticsearch clusters to indicate when the cluster needs to be scaled
+  * Advise teams on Elasticsearch best practices, review architecture plans, make suggestions on architecture to meet scale requirements
+  * Maintain Chef cookbooks that ensure a repeatable AWS AMI "bake", that enable engineers to deploy code dozens of times a day
+  * Various management tasks: hiring, reviews, 1-1s, etc.
+
 ### Firepub, Inc., Mansfield, MA
 *The create anything you can imagine platform*
 
-#### Senior Operations Engineer - July 2013 - Present
-  * Manage all company AWS services spread across multiple regions including EC2, S3, SES, SQS, RDS, Route53, and CloudFront
-  * Deploy and monitor logging infrastructure in CI, QA, and Production that includes Logstash and ElasticSearch
-  * Develop and maintain Chef cookbooks for all supported applications as needed
-  * Developed and maintain a Ruby gem that wraps the FirePub API
-  * Developed and maintain a self-service tool using the AWS SDK that would allow a game studio to spin up an EC2 instance, deploy their game server, and perform testing
-  * Developed a provisioning system that integrates with the AWS and FirePub APIs that scales the instance count based on custom metrics found in one of the FirePub's APIs
-  * Develop sophisticated scripts for automation, monitoring and testing that meet FirePub's and/or client need
-  * Push regular updates of the SaaS platform to Production
-  * Assist in developing a zero downtime deployment plan for the SaaS platform
-  * Provide recommendations on technical decision making that aligns with industry best practices
-  * Mentor team members on various technical issues including new-hire training
+#### Senior Operations Engineer - July 2013 - January 2015
+  * Managed all company AWS services spread across multiple regions including EC2, S3, SES, SQS, RDS, Route53, and CloudFront
+  * Deployed and monitored logging infrastructure in CI, QA, and Production that includes Logstash and ElasticSearch
+  * Developed and maintained Chef cookbooks for all supported applications as needed
+  * Developed and maintained a Ruby gem that wraps the FirePub API
+  * Developed and maintained a self-service tool using the AWS SDK that would allow a game studio to spin up an EC2 instance, deploy their game server, and perform testing
+  * Developed a provisioning system that integrated with the AWS and FirePub APIs that scaled the instance count based on custom metrics found in one of the FirePub's APIs
+  * Developed sophisticated scripts for automation, monitoring and testing that met FirePub's and/or client need
+  * Pushed regular updates of the SaaS platform to Production
+  * Assisted in developing a zero downtime deployment plan for the SaaS platform
+  * Provided recommendations on technical decision making that aligns with industry best practices
+  * Mentored team members on various technical issues including new-hire training
   * Performed QA and Staging deployment training for members of Dev and QA
-  * Manage tasks and projects using Scrum while utilizing Redmine
-  
-### Constant Contact, Inc., Waltham, MA 
+  * Managed tasks and projects using Scrum while utilizing Redmine
+
+### Constant Contact, Inc., Waltham, MA
 *Leader in email marketing, social media marketing, event marketing, local deals, digital storefronts, and online surveys*
 
 #### Applications Operations Engineer - June 2012 – July 2013
@@ -70,7 +79,7 @@
   * Responsible for implementing, monitoring, and maintaining the MySql backups for the website environment
   * Performed new-hire training for each new member of the team
   * Served as the Scrum Master for the Operations crew
-  
+
 ### Realtime Worlds, Inc., Boulder, CO
 *Online video game developer of the much hyped title, All Points Bulletin, released June 2010*
 
