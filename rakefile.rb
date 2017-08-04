@@ -1,21 +1,23 @@
 require 'base64'
 require 'pp'
 
-$files = []
 $output = 'AndrewThompsonResume'
+$output_path = 'target'
 SOURCE = 'resume.md'
 
+task :output_path do
+  mkdir_p $output_path
+end
+
 desc "Generate resume.pdf"
-task :pdf do
-  file = $output + '.pdf'
-  $files << file
+task :pdf => [:output_path] do
+  file = ::File.join($output_path, "#{$output}.pdf")
   sh("pandoc #{SOURCE} -V geometry:margin=.5in -o #{file}")
 end
 
 desc "Generate references.pdf"
-task :references_pdf => [:build_ref] do
-  file = 'AndrewThompsonReferences.pdf'
-  $files << file
+task :references_pdf => [:output_path, :build_ref] do
+  file = ::File.join($output_path, 'AndrewThompsonReferences.pdf')
   sh("pandoc references.md -V geometry:margin=.5in -o #{file}")
 end
 
@@ -79,14 +81,19 @@ task :build_ref do
 end
 
 task :clean do
-  files = [
-    '.pdf'
-  ]
-  files = files.map {|f| $output + f}
-  files << 'AndrewThompsonReferences.pdf'
-  files.each do |file|
-    rm file if File.exists? file
-  end 
+  rm_rf $output_path
+end
+
+task :gh_pages do
+  rm_rf 'gh'
+  mkdir_p 'gh'
+  sh 'git clone --branch gh-pages https://github.com/devkmsg/Resume gh'
+  cp_r 'target/d', 'gh'
+  cd 'gh'
+  sh 'git add .'
+  sh 'git commit -m "Updating build artifacts"'
+  sh 'git push origin gh-pages --force'
 end
 
 task :default => [:clean, :pdf, :references_pdf]
+task :publish => [:clean, :pdf, :gh_pages]
