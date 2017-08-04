@@ -88,7 +88,7 @@ task :gh_pages do
   rm_rf 'gh'
   mkdir_p 'gh'
   sh 'git clone --branch gh-pages https://github.com/devkmsg/Resume gh'
-  cp_r 'target/d', 'gh'
+  cp_r 'target/', 'gh'
   cd 'gh'
   sh 'git add .'
   sh 'git commit -m "Updating build artifacts"'
